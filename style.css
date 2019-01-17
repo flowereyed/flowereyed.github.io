@@ -143,6 +143,7 @@ a {
     width: auto;
     text-align: left;
     padding-right: 5px;
+    clear: both;
 }
 
 .descrs li h2 {
