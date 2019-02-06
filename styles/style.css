@@ -1,6 +1,6 @@
 /* Background */
 body {
-    background-image: url("/www/assets/art-background-blank-951240.jpg");
+    background-image: url("/assets/art-background-blank-951240.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Abel', sans-serif;
@@ -22,7 +22,7 @@ a {
 }
 
 .navbar-li:hover, #bookmark:hover {
-    background-image: url('/www/assets/bookmarks-icon-24531.png');
+    background-image: url('/assets/bookmarks-icon-24531.png');
     background-repeat: no-repeat;
     background-size: 100%; 
 }
@@ -37,7 +37,7 @@ a {
 }
 
 #bookmark {
-    background-image: url('/www/assets/kisspng-bookmark-computer-icons-sale-sticker-5acc6445836c21.1955950915233444535383.png');
+    background-image: url('/assets/kisspng-bookmark-computer-icons-sale-sticker-5acc6445836c21.1955950915233444535383.png');
     background-repeat: no-repeat;
     background-size: 100%; 
     background-position: bottom;
@@ -99,7 +99,7 @@ a {
 /* Main text 2 styling */
 .main-text-2 {
     margin-bottom: 80px;
-    background-image: url('/www/assets/line-png-16.png');
+    background-image: url('/assets/line-png-16.png');
     background-repeat: no-repeat;
     background-size: 45%;
     background-position: center top; 
@@ -155,26 +155,26 @@ a {
 }
 
 #pen {
-    background-image: url('/www/assets/grunge-circle-frame-6.png');
+    background-image: url('/assets/grunge-circle-frame-6.png');
     background-size: 75%;
 }
 
 #coffee {
-    background-image: url('/www/assets/575099e40e3786b76c0549330369fdd1.png');
+    background-image: url('/assets/575099e40e3786b76c0549330369fdd1.png');
 }
 
 #labr {
-    background-image: url('/www/assets/circle-png-21492.png');
+    background-image: url('/assets/circle-png-21492.png');
     background-size: 80%;
 }
 
 #satel {
-    background-image: url('/www/assets/futuristic-circle-png-1.png');
+    background-image: url('/assets/futuristic-circle-png-1.png');
     background-size: 85%;
 }
 
 #stamp {
-    background-image: url('/www/assets/red-1618916_640.png');
+    background-image: url('/assets/red-1618916_640.png');
     background-size: 80%;
 }
 
@@ -229,7 +229,7 @@ a {
     margin-right: auto;
     margin-bottom: 3%;
     padding: 4%;
-    background-image: url('/www/assets/Xh-l14XbDzI.jpg');
+    background-image: url('/assets/Xh-l14XbDzI.jpg');
     background-size: 95%;
     background-repeat: no-repeat;
     background-position: center;
@@ -277,7 +277,7 @@ section {
     padding-right: 4%;
     padding-top: 12%;
     margin-bottom: 80px;
-    background-image: url('/www/assets/line-png-16.png');
+    background-image: url('/assets/line-png-16.png');
     background-repeat: no-repeat;
     background-size: 45%;
     background-position: center top; 
@@ -291,7 +291,7 @@ section {
     vertical-align: middle; 
     padding-left: 4%;
     font-size: 22px;
-    background-image: url('/www/assets/watercolor-circle-yellow.png');
+    background-image: url('/assets/watercolor-circle-yellow.png');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -316,7 +316,7 @@ section {
     margin-top: 2%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('/www/assets/VbHLw8HdkZ4.jpg');
+    background-image: url('/assets/VbHLw8HdkZ4.jpg');
     background-size: 95%;
     background-repeat: no-repeat;
     background-position: center;
@@ -346,7 +346,7 @@ section {
 }
 
 #be-inv {
-    background-image: url('/www/assets/person_profile_user_user_profile_icon_48.png');
+    background-image: url('/assets/person_profile_user_user_profile_icon_48.png');
     background-repeat: no-repeat;
     background-size: 25%;
     background-position: right;
@@ -360,7 +360,7 @@ section {
     text-align: center;
     font-size: 13px;
     margin-bottom: 5%;
-    background-image: url('/www/assets/line-png-16.png'), url('/www/assets/line-png-16.png');
+    background-image: url('/assets/line-png-16.png'), url('/assets/line-png-16.png');
     background-position: left center, right center;
     background-size: 35%;
     background-repeat: no-repeat;
@@ -396,7 +396,7 @@ section {
         text-align: center;
         font-size: 13px;
         margin-bottom: 5%;
-        background-image: url('/www/assets/line-png-16.png'), url('/www/assets/line-png-16.png');
+        background-image: url('/assets/line-png-16.png'), url('/assets/line-png-16.png');
         background-position: left center, right center;
         background-size: 25%;
         background-repeat: no-repeat;
